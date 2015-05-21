@@ -12,6 +12,7 @@ public class GameActivity extends Activity {
     public static final String PREF_RESTORE = "pref_restore";
     private GameFragment mGameFragment;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
